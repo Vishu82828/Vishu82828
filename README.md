@@ -6,7 +6,7 @@
 - 😄 Pronouns: you should try by yourself.
 - ⚡ Fun fact: I'm funny :)
 - I created this repo to track my improvement, I just accepted the challenge to continue coding for 100 days and every day making new Projects on Python.
-- Feel free to reach me.
+- Feel free to reach me. 
 
 <!---
 Vishu82828/Vishu82828 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
