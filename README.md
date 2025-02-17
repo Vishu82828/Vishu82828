@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishwajeet Singh
 - 👀 I’m interested in Learning new things
-- 🌱 I’m currently working on Reacts Project.
+- 🌱 I’m currently working on Real life Project.
 - 💞️ I’m looking to collaborate with people from whom I learn something.
 - 📫 How to reach me on LinkedIn - https://www.linkedin.com/in/vishwajeet-singh-j8422/
 - 😄 Pronouns: you should try by yourself.
